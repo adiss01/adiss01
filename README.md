@@ -1,25 +1,25 @@
-<!-- ============================= -->
-<!--        HERO SECTION           -->
-<!-- ============================= -->
+<!-- ================================================= -->
+<!--                    HERO                           -->
+<!-- ================================================= -->
 
 <h1 align="center">Adem Taha Dursun</h1>
-<h3 align="center">Full-Stack Developer • FiveM Systems • Automation Architect</h3>
+<h3 align="center">Full-Stack Developer • System Architect • Automation Engineer</h3>
 
 <p align="center">
-  Building scalable systems, immersive game integrations and intelligent automation solutions.
+  I design and build scalable web applications, backend systems, and intelligent automation workflows.
 </p>
 
 <p align="center">
   <a href="https://adiss01.github.io" target="_blank">
-    🌐 Portfolio Website
+    🌐 Portfolio
   </a>
 </p>
 
 <br>
 
-<!-- ============================= -->
-<!--        DISCORD STATUS         -->
-<!-- ============================= -->
+<!-- ================================================= -->
+<!--                 DISCORD STATUS                    -->
+<!-- ================================================= -->
 
 <p align="center">
   <a href="https://discord.com/users/342360490422566913">
@@ -29,23 +29,105 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔥 Advanced **FiveM Development (Lua / NUI / Target Systems)**
-- ⚙️ Backend Architectures & API Integrations
-- 🧠 AI Automation Workflows (OCR → JSON → Form Systems)
-- 🏗 Scalable Admin Panels & Custom CMS Systems
-- 🎨 UI/UX Optimization & Premium Frontend Design
+I am a Full-Stack Developer focused on building robust, scalable, and production-ready systems.
 
-I specialize in transforming raw ideas into production-ready systems with stability, security, and performance in mind.
+My approach combines:
+
+- ⚙️ Clean backend architecture
+- 🧠 Intelligent automation pipelines
+- 🎨 Modern and performant frontend interfaces
+- 🔐 Secure and maintainable infrastructure
+
+I transform complex requirements into structured, reliable software solutions.
 
 ---
 
-## 🧩 Core Stack
+## 🧩 Technical Stack
 
-```text
-Frontend   → HTML • CSS • JavaScript • NUI
-Backend    → PHP • Node.js • Lua
-Database   → MySQL • MariaDB
-Game Dev   → FiveM • ox_inventory • ox_target
-Automation → OpenAI API • OCR • REST APIs
+### 🖥 Frontend
+- HTML5
+- CSS3 / Tailwind
+- JavaScript (ES6+)
+- React (component-based architecture)
+- Responsive & UI/UX optimization
+
+### ⚙ Backend
+- PHP (RESTful systems)
+- Node.js
+- Lua (real-time systems)
+- API Design & Integration
+
+### 🗄 Database
+- MySQL
+- MariaDB
+- Query optimization
+- Relational data modeling
+
+### 🤖 Automation & AI
+- OpenAI API integrations
+- OCR pipelines
+- Document-to-JSON systems
+- Form auto-fill workflows
+
+---
+
+## 🏗 Specializations
+
+- Full-stack web application development
+- Custom admin panels & CMS systems
+- API-driven architectures
+- Authentication & authorization systems
+- High-performance real-time applications
+- Game & simulation integrations (FiveM, NUI systems)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiss01&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Advanced backend architecture patterns  
+- AI-powered workflow automation  
+- High-quality UI systems  
+- Performance optimization & debugging  
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.instagram.com/adem4u/">
+    <img src="https://img.shields.io/badge/Instagram-DC3175?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://open.spotify.com/user/0va37wpu51nl3104o0yi7d5dn">
+    <img src="https://img.shields.io/badge/Spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+  <a href="https://steamcommunity.com/id/adis00/">
+    <img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👁 Profile Views
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@:adiss01?theme=rule34" />
+</p>
+
+---
+
+<div align="center">
+  
+  <strong>Engineering scalable systems with precision and performance in mind.</strong>
+  
+</div>
