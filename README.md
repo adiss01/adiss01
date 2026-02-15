@@ -87,8 +87,11 @@ I transform complex requirements into structured, reliable software solutions.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiss01&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiss01&layout=compact&theme=radical&hide_border=true&cache_seconds=21600)
+
 </p>
 
 ---
