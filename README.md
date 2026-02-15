@@ -84,15 +84,35 @@ I transform complex requirements into structured, reliable software solutions.
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ================================================= -->
+<!--              GITHUB ANALYTICS            -->
+<!-- ================================================= -->
+
+<h2 align="center">⚡ GitHub Performance Overview</h2>
 
 <p align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiss01&layout=compact&theme=radical&hide_border=true&cache_seconds=21600)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&cache_seconds=21600" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiss01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=21600" height="180"/>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adiss01&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adiss01&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adiss01&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
 
 ---
 
