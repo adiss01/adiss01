@@ -15,8 +15,8 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  > **DX matters:** I design and build scalable web applications, backend systems, and intelligent automation workflows.
-  > **DX matters:** I prioritize onboarding, clarity, and maintainability.
+  > I design and build scalable web applications, backend systems, and intelligent automation workflows.<br>
+  > I prioritize onboarding, clarity, and maintainability.
 </p>
 
   <a href="https://adiss01.github.io" target="_blank">
@@ -74,20 +74,35 @@ OpenAI API • OCR Pipelines • JSON Workflows
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ================================================= -->
+<!--              PREMIUM GITHUB ANALYTICS            -->
+<!-- ================================================= -->
+
+<h2 align="center">⚡ GitHub Performance Overview</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600"
-    alt="GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiss01&layout=compact&theme=radical&hide_border=true&cache_seconds=21600"
-    alt="Top Languages"
-    height="170"
-  />
+  <img src="https://streak-stats.demolab.com?user=adiss01&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" />
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adiss01&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiss01&theme=tokyonight" />
+</p>
+
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-10-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-—-79c0ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-—-a371f7?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 ---
 
