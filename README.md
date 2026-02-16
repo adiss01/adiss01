@@ -11,12 +11,6 @@
 <!--                    HERO                           -->
 <!-- ================================================= -->
 
-<div align="center">
-
-<img src="https://placehold.co/1400x360/0b1220/58a6ff?text=adiss+%E2%80%A2+Full-Stack+Developer" alt="Banner" width="100%" />
-
-<br /><br />
-
 <h1>adiss</h1>
 <h3>Full-Stack Developer</h3>
 
